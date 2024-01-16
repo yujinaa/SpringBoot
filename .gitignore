@@ -51,6 +51,8 @@ pom.xml
 application.yaml
 application.properties
 .mvn/
+mvnw.cmd
+mvnw
 
 # Code Recommenders
 .recommenders/
